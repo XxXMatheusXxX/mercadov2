@@ -1,0 +1,12 @@
+{
+  "produtos": [
+    {
+      "img": "../../assets/dzm10c2mknl91.jpg",
+      "nome": "Hector Salamanca",
+      "valor": 700,
+      "descricao": "Herectuz Salamancus",
+      "id": 1
+    }
+  
+  ]
+}
